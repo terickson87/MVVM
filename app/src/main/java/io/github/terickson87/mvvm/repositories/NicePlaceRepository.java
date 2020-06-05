@@ -1,8 +1,8 @@
-package com.example.mvvm.repositories;
+package io.github.terickson87.mvvm.repositories;
 
 import androidx.lifecycle.MutableLiveData;
 
-import com.example.mvvm.models.NicePlace;
+import io.github.terickson87.mvvm.models.NicePlace;
 
 import java.util.ArrayList;
 import java.util.List;

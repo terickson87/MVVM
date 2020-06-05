@@ -1,4 +1,4 @@
-package com.example.mvvm.viewmodels;
+package io.github.terickson87.mvvm.viewmodels;
 
 import android.os.AsyncTask;
 
@@ -6,8 +6,8 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-import com.example.mvvm.models.NicePlace;
-import com.example.mvvm.repositories.NicePlaceRepository;
+import io.github.terickson87.mvvm.models.NicePlace;
+import io.github.terickson87.mvvm.repositories.NicePlaceRepository;
 
 import java.util.List;
 

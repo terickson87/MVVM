@@ -1,4 +1,4 @@
-package com.example.mvvm.models;
+package io.github.terickson87.mvvm.models;
 
 public class NicePlace {
 

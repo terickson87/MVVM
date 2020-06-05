@@ -1,4 +1,4 @@
-package com.example.mvvm.adapters;
+package io.github.terickson87.mvvm.adapters;
 
 import android.content.Context;
 import android.util.Log;
@@ -13,8 +13,8 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mvvm.R;
-import com.example.mvvm.models.NicePlace;
+import io.github.terickson87.mvvm.R;
+import io.github.terickson87.mvvm.models.NicePlace;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

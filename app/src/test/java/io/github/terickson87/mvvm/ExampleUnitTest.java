@@ -1,4 +1,4 @@
-package com.example.mvvm;
+package io.github.terickson87.mvvm;
 
 import org.junit.Test;
 

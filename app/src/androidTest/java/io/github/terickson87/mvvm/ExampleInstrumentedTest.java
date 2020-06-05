@@ -1,4 +1,4 @@
-package com.example.mvvm;
+package io.github.terickson87.mvvm;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.mvvm", appContext.getPackageName());
+        assertEquals("io.github.terickson87.mvvm", appContext.getPackageName());
     }
 }

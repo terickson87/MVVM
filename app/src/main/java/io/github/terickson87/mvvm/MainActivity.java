@@ -1,4 +1,4 @@
-package com.example.mvvm;
+package io.github.terickson87.mvvm;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.Observer;
@@ -12,9 +12,11 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.example.mvvm.adapters.RecyclerAdapter;
-import com.example.mvvm.models.NicePlace;
-import com.example.mvvm.viewmodels.MainActivityViewModel;
+import io.github.terickson87.mvvm.adapters.RecyclerAdapter;
+import io.github.terickson87.mvvm.models.NicePlace;
+import io.github.terickson87.mvvm.viewmodels.MainActivityViewModel;
+
+import io.github.terickson87.mvvm.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;
