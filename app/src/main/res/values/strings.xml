@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVVM</string>
+    <string name="lnpi_dummy_text">Nice Place Text</string>
+    <string name="lnpi_dummy_image_description">Nice Place Image</string>
 </resources>
